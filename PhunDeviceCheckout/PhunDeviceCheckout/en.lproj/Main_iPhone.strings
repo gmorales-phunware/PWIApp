@@ -1,0 +1,81 @@
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "2FP-Ck-wzQ"; */
+"2FP-Ck-wzQ.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "65W-Nd-QlL"; */
+"65W-Nd-QlL.normalTitle" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Check Out"; ObjectID = "9Jz-He-y00"; */
+"9Jz-He-y00.normalTitle" = "Check Out";
+
+/* Class = "UIButton"; normalTitle = "List of Devices"; ObjectID = "Erp-LW-POR"; */
+"Erp-LW-POR.normalTitle" = "List of Devices";
+
+/* Class = "UINavigationItem"; title = "Scan Barcode"; ObjectID = "Ffe-BI-o0j"; */
+"Ffe-BI-o0j.title" = "Scan Barcode";
+
+/* Class = "UITableViewController"; title = "Test"; ObjectID = "Fuz-KO-hYw"; */
+"Fuz-KO-hYw.title" = "Test";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Gdc-aX-oib"; */
+"Gdc-aX-oib.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "@phunware.com"; ObjectID = "HuX-OG-jw9"; */
+"HuX-OG-jw9.text" = "@phunware.com";
+
+/* Class = "UIButton"; normalTitle = "not you?"; ObjectID = "IUn-KJ-keV"; */
+"IUn-KJ-keV.normalTitle" = "not you?";
+
+/* Class = "UIButton"; normalTitle = "Check In"; ObjectID = "L8j-4O-gCu"; */
+"L8j-4O-gCu.normalTitle" = "Check In";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "R3v-41-MYn"; */
+"R3v-41-MYn.text" = "Last Name";
+
+/* Class = "UINavigationItem"; title = "Add New User"; ObjectID = "S6d-MC-hVB"; */
+"S6d-MC-hVB.title" = "Add New User";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "SeW-CL-euj"; */
+"SeW-CL-euj.placeholder" = "Last Name";
+
+/* Class = "UINavigationItem"; title = "Phunware Device Checkout"; ObjectID = "Tm6-YW-gYp"; */
+"Tm6-YW-gYp.title" = "Phunware Device Checkout";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "czC-9C-ZUg"; */
+"czC-9C-ZUg.normalTitle" = "Retry";
+
+/* Class = "UILabel"; text = "Frame the code within these guides"; ObjectID = "dp0-Vv-D0L"; */
+"dp0-Vv-D0L.text" = "Frame the code within these guides";
+
+/* Class = "UILabel"; text = "Email Address"; ObjectID = "fFB-XT-PtZ"; */
+"fFB-XT-PtZ.text" = "Email Address";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "gcN-EO-fi7"; */
+"gcN-EO-fi7.title" = "Back";
+
+/* Class = "UINavigationItem"; title = "User Login"; ObjectID = "i97-3H-k3a"; */
+"i97-3H-k3a.title" = "User Login";
+
+/* Class = "UILabel"; text = "Username Here"; ObjectID = "jkB-CI-X9m"; */
+"jkB-CI-X9m.text" = "Username Here";
+
+/* Class = "UITextView"; text = "Barcode Reader Cancelled  Tap Retry To Continue"; ObjectID = "ljy-9B-bAZ"; */
+"ljy-9B-bAZ.text" = "Barcode Reader Cancelled  Tap Retry To Continue";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "nAO-Qi-9Xi"; */
+"nAO-Qi-9Xi.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "pKO-Qm-6vy"; */
+"pKO-Qm-6vy.placeholder" = "First Name";
+
+/* Class = "UITextField"; placeholder = "username"; ObjectID = "pL5-gC-pqE"; */
+"pL5-gC-pqE.placeholder" = "username";
+
+/* Class = "UINavigationItem"; title = "User Login"; ObjectID = "rWt-ht-Lvm"; */
+"rWt-ht-Lvm.title" = "User Login";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "wc4-Pz-q5V"; */
+"wc4-Pz-q5V.text" = "First Name";
+
+/* Class = "UITableViewController"; title = "Test"; ObjectID = "xRD-eZ-NYN"; */
+"xRD-eZ-NYN.title" = "Test";
